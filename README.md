@@ -1,4 +1,4 @@
-# ObjectDetection
+# Guide to Real Time Object Detection
 
 Step 1: Run the Image Collection jupyter notebook file to collect our images<br />
 Step 2: Clone LabelImg from https://github.com/tzutalin/labelImg<br />
